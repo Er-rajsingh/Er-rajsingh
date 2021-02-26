@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raj singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raj-singh-8949ba190/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raj singh" height="30" width="40" /></a>
 <a href="https://fb.com/raj singh parmar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raj singh parmar" height="30" width="40" /></a>
 <a href="https://instagram.com/_raaz_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_raaz_25" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raaz_2508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raaz_2508" height="30" width="40" /></a>
